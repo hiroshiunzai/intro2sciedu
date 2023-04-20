@@ -1,7 +1,6 @@
 delete_merged_file: true
-book_filename: "Introduction to Science Education"
+book_filename: "初めて理科教育学を学ぶ人のためのサイト"
 language:
   ui:
-
 
 output_dir: docs
