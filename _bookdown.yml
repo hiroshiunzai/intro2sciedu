@@ -1,6 +1,7 @@
 delete_merged_file: true
+book_filename: "Introduction to Science Education"
 language:
   ui:
-    chapter_name: "Chapter "
+
 
 output_dir: docs
